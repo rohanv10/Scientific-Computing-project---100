@@ -1,0 +1,10 @@
+import turtle
+x=turtle.Turtle()
+y=turtle.Turtle()
+fx=turtle.Turtle()
+y.left(90)
+y.forward(100)
+x.forward(100)
+fx.goto(0,30)
+fx.left(30)
+fx.forward(90)
